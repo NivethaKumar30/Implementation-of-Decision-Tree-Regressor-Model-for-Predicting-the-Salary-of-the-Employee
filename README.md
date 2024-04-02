@@ -61,6 +61,17 @@ plt.show()
 ## Output:
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
 
+![image](https://github.com/NivethaKumar30/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119559844/3ad0dc42-a667-40ba-9ab5-ec580a423a10)
+
+
+![image](https://github.com/NivethaKumar30/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119559844/600a0092-2439-4f9e-9c40-e9e2be7616d8)
+
+
+![image](https://github.com/NivethaKumar30/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119559844/df7e562a-49ae-4245-a67d-f4a90a02edf8)
+
+
+![image](https://github.com/NivethaKumar30/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119559844/633f7caa-23fc-4e9c-9ca8-44042f3f0a8e)
+
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
